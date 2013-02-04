@@ -1,16 +1,17 @@
-===================
-DEPRECATION WARNING
-===================
+==================
+About this version
+==================
 
-Plugin is currently in maintenance mode, no feature requests will be accepted.
-Vim-powerline will be deprecated in favour of https://github.com/Lokaltog/powerline once it is ready.
+Note that this is a fork of vim-powerline (now known as powerline) that
+does not require python. For the version requiring python, please visit
+https://github.com/Lokaltog/powerline.
 
 =================
 Powerline for vim
 =================
 
-:Author: Kim Silkebækken (kim.silkebaekken+vim@gmail.com)
-:Source: https://github.com/Lokaltog/vim-powerline
+:Author: Kim Silkebækken (original author) and David Davis (maintainer of this version)
+:Source: https://github.com/daviddavis/vim-powerline
 :Version: β
 
 Introduction
